@@ -15,5 +15,5 @@
 <hr width="40%">
 <hr width="60%">
 <hr width="80%">
-<a  href="#">Live Demo soon/a>
+<a  href="#">Live Demo soon </a>
 <hr>
